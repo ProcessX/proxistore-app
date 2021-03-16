@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/proxistore-app/static/css/main.dbdf7439.chunk.css",
-    "main.js": "/proxistore-app/static/js/main.9418a09e.chunk.js",
-    "main.js.map": "/proxistore-app/static/js/main.9418a09e.chunk.js.map",
+    "main.js": "/proxistore-app/static/js/main.2893813f.chunk.js",
+    "main.js.map": "/proxistore-app/static/js/main.2893813f.chunk.js.map",
     "runtime-main.js": "/proxistore-app/static/js/runtime-main.b75dd096.js",
     "runtime-main.js.map": "/proxistore-app/static/js/runtime-main.b75dd096.js.map",
-    "static/js/2.b8f4cd12.chunk.js": "/proxistore-app/static/js/2.b8f4cd12.chunk.js",
-    "static/js/2.b8f4cd12.chunk.js.map": "/proxistore-app/static/js/2.b8f4cd12.chunk.js.map",
+    "static/js/2.8e886cb4.chunk.js": "/proxistore-app/static/js/2.8e886cb4.chunk.js",
+    "static/js/2.8e886cb4.chunk.js.map": "/proxistore-app/static/js/2.8e886cb4.chunk.js.map",
     "static/js/3.c2e03873.chunk.js": "/proxistore-app/static/js/3.c2e03873.chunk.js",
     "static/js/3.c2e03873.chunk.js.map": "/proxistore-app/static/js/3.c2e03873.chunk.js.map",
     "index.html": "/proxistore-app/index.html",
     "static/css/main.dbdf7439.chunk.css.map": "/proxistore-app/static/css/main.dbdf7439.chunk.css.map",
-    "static/js/2.b8f4cd12.chunk.js.LICENSE.txt": "/proxistore-app/static/js/2.b8f4cd12.chunk.js.LICENSE.txt",
+    "static/js/2.8e886cb4.chunk.js.LICENSE.txt": "/proxistore-app/static/js/2.8e886cb4.chunk.js.LICENSE.txt",
     "static/media/arrow-down-sign-to-navigate.5b0512cf.svg": "/proxistore-app/static/media/arrow-down-sign-to-navigate.5b0512cf.svg",
     "static/media/check.bf6a0502.svg": "/proxistore-app/static/media/check.bf6a0502.svg",
     "static/media/close.17a94979.svg": "/proxistore-app/static/media/close.17a94979.svg",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b75dd096.js",
-    "static/js/2.b8f4cd12.chunk.js",
+    "static/js/2.8e886cb4.chunk.js",
     "static/css/main.dbdf7439.chunk.css",
-    "static/js/main.9418a09e.chunk.js"
+    "static/js/main.2893813f.chunk.js"
   ]
 }
